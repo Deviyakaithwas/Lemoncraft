@@ -1,0 +1,14 @@
+.section1 {
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .section1 .content {
+    max-width: 800px;
+    text-align: left;
+  }
+  
